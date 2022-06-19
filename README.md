@@ -1,6 +1,6 @@
 # GGuess
 
-An extension of THE BOOK guessing game with player live
+An extension of THE BOOK CLI guessing game with player live
 
 
 # Note
